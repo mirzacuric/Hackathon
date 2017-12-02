@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "TechShopConnectionString": "Data Source=(LocalDB)\\MSSQLLocalDB;Database=Hackathon;Trusted_Connection=true;MultipleActiveResultSets=true;connect timeout=100000"
+  }
+}

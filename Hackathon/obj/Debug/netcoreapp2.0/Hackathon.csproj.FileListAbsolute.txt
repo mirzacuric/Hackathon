@@ -1,0 +1,11 @@
+C:\Users\Mirza\Documents\Visual Studio 2017\Projects\Hackathon\Hackathon\bin\Debug\netcoreapp2.0\Hackathon.deps.json
+C:\Users\Mirza\Documents\Visual Studio 2017\Projects\Hackathon\Hackathon\bin\Debug\netcoreapp2.0\Hackathon.runtimeconfig.json
+C:\Users\Mirza\Documents\Visual Studio 2017\Projects\Hackathon\Hackathon\bin\Debug\netcoreapp2.0\Hackathon.runtimeconfig.dev.json
+C:\Users\Mirza\Documents\Visual Studio 2017\Projects\Hackathon\Hackathon\bin\Debug\netcoreapp2.0\Hackathon.dll
+C:\Users\Mirza\Documents\Visual Studio 2017\Projects\Hackathon\Hackathon\bin\Debug\netcoreapp2.0\Hackathon.pdb
+C:\Users\Mirza\Documents\Visual Studio 2017\Projects\Hackathon\Hackathon\obj\Debug\netcoreapp2.0\Hackathon.csprojResolveAssemblyReference.cache
+C:\Users\Mirza\Documents\Visual Studio 2017\Projects\Hackathon\Hackathon\obj\Debug\netcoreapp2.0\Hackathon.csproj.CoreCompileInputs.cache
+C:\Users\Mirza\Documents\Visual Studio 2017\Projects\Hackathon\Hackathon\obj\Debug\netcoreapp2.0\Hackathon.AssemblyInfoInputs.cache
+C:\Users\Mirza\Documents\Visual Studio 2017\Projects\Hackathon\Hackathon\obj\Debug\netcoreapp2.0\Hackathon.AssemblyInfo.cs
+C:\Users\Mirza\Documents\Visual Studio 2017\Projects\Hackathon\Hackathon\obj\Debug\netcoreapp2.0\Hackathon.dll
+C:\Users\Mirza\Documents\Visual Studio 2017\Projects\Hackathon\Hackathon\obj\Debug\netcoreapp2.0\Hackathon.pdb
